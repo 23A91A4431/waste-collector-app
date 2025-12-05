@@ -1,0 +1,1 @@
+# waste-collector-app
